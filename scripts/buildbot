@@ -1,0 +1,4 @@
+#!c:\mozilla-build\buildbotve\Scripts\python.exe
+
+from buildbot.scripts import runner
+runner.run()
